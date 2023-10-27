@@ -9,65 +9,20 @@
     },
     "thumbnail": [
         {
-            "id": "http://acervo-novo-mundo.vercel.app/1/c485669073cdec46bf299080b3834da2/full/300,179/0/default.png",
+            "id": "http://acervo-novo-mundo.vercel.app/4/d678a312125a1eb2b69a908ba4f64cc2/full/209,300/0/default.png",
             "type": "Image",
             "format": "image/png",
-            "height": 179,
-            "width": 300
+            "height": 300,
+            "width": 209
         }
     ],
     "items": [
         {
-            "id": "http://acervo-novo-mundo.vercel.app/1/manifest.json",
+            "id": "http://acervo-novo-mundo.vercel.app/4/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
-                    " Pintura - Estudo para Desembarque de Dona Leopoldina no Brasil"
-                ]
-            }
-        },
-        {
-            "id": "http://acervo-novo-mundo.vercel.app/8/manifest.json",
-            "type": "Manifest",
-            "label": {
-                "none": [
-                    "Acessórios do figurino: tiara, colar e  medalhão"
-                ]
-            }
-        },
-        {
-            "id": "http://acervo-novo-mundo.vercel.app/2/manifest.json",
-            "type": "Manifest",
-            "label": {
-                "none": [
-                    "Cena desembarque de D. Leopoldina"
-                ]
-            }
-        },
-        {
-            "id": "http://acervo-novo-mundo.vercel.app/6/manifest.json",
-            "type": "Manifest",
-            "label": {
-                "none": [
-                    "Detalhes do colar e faixa de D. Leopoldina"
-                ]
-            }
-        },
-        {
-            "id": "http://acervo-novo-mundo.vercel.app/5/manifest.json",
-            "type": "Manifest",
-            "label": {
-                "none": [
-                    "Detalhes do figurino do casamento"
-                ]
-            }
-        },
-        {
-            "id": "http://acervo-novo-mundo.vercel.app/7/manifest.json",
-            "type": "Manifest",
-            "label": {
-                "none": [
-                    "Figurino com tiara e medalhão"
+                    "Tiara e colar de pérolas - Pintura de Maria Leopoldina da Áustria"
                 ]
             }
         },
@@ -81,20 +36,83 @@
             }
         },
         {
-            "id": "http://acervo-novo-mundo.vercel.app/9/manifest.json",
+            "id": "http://acervo-novo-mundo.vercel.app/7/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
-                    "Pintura medalhão da Ordem da Cruz Estrelada"
+                    "Figurino com tiara e medalhão"
                 ]
             }
         },
         {
-            "id": "http://acervo-novo-mundo.vercel.app/4/manifest.json",
+            "id": "http://acervo-novo-mundo.vercel.app/5/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
-                    "Tiara e colar de pérolas - Pintura de Maria Leopoldina da Áustria"
+                    "Detalhes do figurino do casamento"
+                ]
+            }
+        },
+        {
+            "id": "http://acervo-novo-mundo.vercel.app/6/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Detalhes do colar e faixa de D. Leopoldina"
+                ]
+            }
+        },
+        {
+            "id": "http://acervo-novo-mundo.vercel.app/2/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Cena desembarque de D. Leopoldina"
+                ]
+            }
+        },
+        {
+            "id": "http://acervo-novo-mundo.vercel.app/9/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Avó de Leopoldina, Infanta Maria Ludovica (1745-1792)"
+                ]
+            }
+        },
+        {
+            "id": "http://acervo-novo-mundo.vercel.app/8/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Acessórios do figurino: tiara, colar e  medalhão"
+                ]
+            }
+        },
+        {
+            "id": "http://acervo-novo-mundo.vercel.app/11/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    " Retrato de Maria Leopoldina da Áustria com tiara de pérolas"
+                ]
+            }
+        },
+        {
+            "id": "http://acervo-novo-mundo.vercel.app/1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    " Pintura - Estudo para Desembarque de Dona Leopoldina no Brasil"
+                ]
+            }
+        },
+        {
+            "id": "http://acervo-novo-mundo.vercel.app/10/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    " Figurino da despedida de  D. João VI do Brasil"
                 ]
             }
         }

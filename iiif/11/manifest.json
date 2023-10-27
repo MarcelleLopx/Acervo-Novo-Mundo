@@ -1,0 +1,108 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "http://acervo-novo-mundo.vercel.app/11/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            " Retrato de Maria Leopoldina da Áustria com tiara de pérolas"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "KREUTZINGER, Joseph"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1815"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Type"
+                ]
+            },
+            "value": {
+                "none": [
+                    " Óleo sobre tela"
+                ]
+            }
+        }
+    ],
+    "requiredStatement": {
+        "label": "Atribuição",
+        "value": "Disponibilizado por Acervo Palácio de Schönbrunn"
+    },
+    "thumbnail": [
+        {
+            "id": "http://acervo-novo-mundo.vercel.app/11/5daf766b0263e98699d88bc4a6ce480b/full/253,300/0/default.png",
+            "type": "Image",
+            "format": "image/png",
+            "height": 300,
+            "width": 253
+        }
+    ],
+    "homepage": [
+        {
+            "type": "Text",
+            "format": "text/html",
+            "label": {
+                "none": [
+                    "Página do objeto"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "http://acervo-novo-mundo.vercel.app/11/canvas/0",
+            "type": "Canvas",
+            "height": 500,
+            "width": 421,
+            "items": [
+                {
+                    "id": "http://acervo-novo-mundo.vercel.app/11/canvas/0/annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "http://acervo-novo-mundo.vercel.app/11/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "http://acervo-novo-mundo.vercel.app/11/canvas/0",
+                            "body": {
+                                "id": "http://acervo-novo-mundo.vercel.app/11/5daf766b0263e98699d88bc4a6ce480b/full/1684,2000/0/default.png",
+                                "type": "Image",
+                                "format": "image/png",
+                                "height": 2000,
+                                "width": 1684,
+                                "service": [
+                                    {
+                                        "id": "http://acervo-novo-mundo.vercel.app/11/5daf766b0263e98699d88bc4a6ce480b",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
