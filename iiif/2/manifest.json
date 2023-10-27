@@ -1,5 +1,5 @@
 {
-    "@context": "https://iiif.io/api/presentation/3/context.json",
+    "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "httpss://acervo-novo-mundo.vercel.app/2/manifest.json",
     "type": "Manifest",
     "label": {
@@ -95,7 +95,7 @@
                                     {
                                         "id": "httpss://acervo-novo-mundo.vercel.app/2/262892bdf6cc9195547e353d0521ead6",
                                         "type": "ImageService3",
-                                        "profile": "https://iiif.io/api/image/3/level0.json"
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
                                 ]
                             }
