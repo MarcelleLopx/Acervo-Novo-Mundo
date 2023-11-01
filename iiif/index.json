@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "httpss://acervo-novo-mundo.vercel.app/index.json",
+    "id": "https://acervo-novo-mundo.vercel.app/index.json",
     "type": "Collection",
     "label": {
         "none": [
@@ -12,7 +12,7 @@
 <<<<<<< HEAD
             "id": "https://acervo-novo-mundo.vercel.app/4/d678a312125a1eb2b69a908ba4f64cc2/full/209,300/0/default.png",
 =======
-            "id": "httpss://acervo-novo-mundo.vercel.app/1/c485669073cdec46bf299080b3834da2/full/300,179/0/default.png",
+            "id": "https://acervo-novo-mundo.vercel.app/1/c485669073cdec46bf299080b3834da2/full/300,179/0/default.png",
 >>>>>>> 874c8807c1f6a341a4a38e979f1b158989ddbf54
             "type": "Image",
             "format": "image/png",
@@ -29,7 +29,7 @@
                 "none": [
                     "Tiara e colar de pérolas - Pintura de Maria Leopoldina da Áustria"
 =======
-            "id": "httpss://acervo-novo-mundo.vercel.app/1/manifest.json",
+            "id": "https://acervo-novo-mundo.vercel.app/1/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -38,7 +38,7 @@
             }
         },
         {
-            "id": "httpss://acervo-novo-mundo.vercel.app/8/manifest.json",
+            "id": "https://acervo-novo-mundo.vercel.app/8/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -47,7 +47,7 @@
             }
         },
         {
-            "id": "httpss://acervo-novo-mundo.vercel.app/2/manifest.json",
+            "id": "https://acervo-novo-mundo.vercel.app/2/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -56,7 +56,7 @@
             }
         },
         {
-            "id": "httpss://acervo-novo-mundo.vercel.app/6/manifest.json",
+            "id": "https://acervo-novo-mundo.vercel.app/6/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -65,7 +65,7 @@
             }
         },
         {
-            "id": "httpss://acervo-novo-mundo.vercel.app/5/manifest.json",
+            "id": "https://acervo-novo-mundo.vercel.app/5/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -74,7 +74,7 @@
             }
         },
         {
-            "id": "httpss://acervo-novo-mundo.vercel.app/7/manifest.json",
+            "id": "https://acervo-novo-mundo.vercel.app/7/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -84,7 +84,7 @@
             }
         },
         {
-            "id": "httpss://acervo-novo-mundo.vercel.app/3/manifest.json",
+            "id": "https://acervo-novo-mundo.vercel.app/3/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -96,7 +96,7 @@
 <<<<<<< HEAD
             "id": "https://acervo-novo-mundo.vercel.app/7/manifest.json",
 =======
-            "id": "httpss://acervo-novo-mundo.vercel.app/9/manifest.json",
+            "id": "https://acervo-novo-mundo.vercel.app/9/manifest.json",
 >>>>>>> 874c8807c1f6a341a4a38e979f1b158989ddbf54
             "type": "Manifest",
             "label": {
@@ -109,7 +109,7 @@
 <<<<<<< HEAD
             "id": "https://acervo-novo-mundo.vercel.app/5/manifest.json",
 =======
-            "id": "httpss://acervo-novo-mundo.vercel.app/4/manifest.json",
+            "id": "https://acervo-novo-mundo.vercel.app/4/manifest.json",
 >>>>>>> 874c8807c1f6a341a4a38e979f1b158989ddbf54
             "type": "Manifest",
             "label": {
